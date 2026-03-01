@@ -9,5 +9,5 @@ This project was developed while studying *Advanced Programming in the UNIX Envi
 and prints the remaining contents to standard output
 
 ## Usage
-./seekview <file> <offset> <whence>
+./seekview `<file>` `<offset>` `<whence>`
 
